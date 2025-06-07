@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
