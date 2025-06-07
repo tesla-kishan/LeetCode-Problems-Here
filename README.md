@@ -61,16 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
