@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
