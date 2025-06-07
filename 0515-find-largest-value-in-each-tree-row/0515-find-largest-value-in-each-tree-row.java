@@ -15,21 +15,19 @@
  */
 class Solution {
     public List<Integer> largestValues(TreeNode root) {
-        if(root == null) return new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-       Queue <TreeNode> q = new LinkedList<>();
-       q.add(root);
-       while(!q.isEmpty()){
-        int size = q.size();
-        int max = Integer.MIN_VALUE;
-        while(size-- >0){
-            TreeNode temp = q.poll();
-            max = Math.max(max,temp.val);
-            if(temp.left != null) q.add(temp.left);
-            if(temp.right != null) q.add(temp.right);
+        ArrayList<Integer> ans = new ArrayList<>();
+        fn(root,ans,0);
+        return ans;
+    }
+    public void fn(TreeNode root ,ArrayList<Integer> ans,int level){
+        if(root == null) return;
+        if(level == ans.size()){
+            ans.add(root.val);
+        }else{
+            ans.set(level,Math.max(root.val , ans.get(level)));
         }
-        ans.add(max);
-       } 
-       return ans;
+        fn(root.left,ans,level+1);
+        fn(root.right,ans,level+1);
+
     }
 }
