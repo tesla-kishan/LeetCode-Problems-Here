@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -133,8 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
