@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0838-design-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
