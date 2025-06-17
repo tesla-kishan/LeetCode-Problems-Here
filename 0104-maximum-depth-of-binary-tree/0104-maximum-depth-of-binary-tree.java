@@ -15,9 +15,9 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root == null) return 0;
-        int a1 = maxDepth(root.left);
-        int a2 = maxDepth(root.right);
-        return Math.max(a1,a2)+1 ;
+        if(root==null) return 0;
+        int x = maxDepth(root.left);
+        int y = maxDepth(root.right);
+        return Math.max(x,y)+1;
     }
 }
