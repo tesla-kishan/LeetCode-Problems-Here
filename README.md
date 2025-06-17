@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0838-design-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
