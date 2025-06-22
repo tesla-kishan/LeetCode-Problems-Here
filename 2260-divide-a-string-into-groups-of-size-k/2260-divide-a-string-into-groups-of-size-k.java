@@ -1,26 +1,21 @@
 class Solution {
     public String[] divideString(String s, int k, char fill) {
+        int len = s.length();
         List<String> ans = new ArrayList<>();
-        int i = 0;
-
-        while (i < s.length()) {
+        int i=0 ;
+        while(i<len){
             StringBuilder temp = new StringBuilder();
-            int cnt = 0;
-
-            while (i < s.length() && cnt < k) {
+            int count=0;
+            while(i<len && count<k){
                 temp.append(s.charAt(i));
                 i++;
-                cnt++;
+                count++;
             }
-
-            while (temp.length() < k) {
+            while(temp.length()<k){
                 temp.append(fill);
             }
-
             ans.add(temp.toString());
         }
-
-        // Convert List<String> to String[]
         return ans.toArray(new String[0]);
     }
 }
