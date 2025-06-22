@@ -16,6 +16,6 @@ class Solution {
             }
             ans.add(temp.toString());
         }
-        return ans.toArray(new String[0]);
+  return ans.toArray(new String[ans.size()]);
     }
 }
