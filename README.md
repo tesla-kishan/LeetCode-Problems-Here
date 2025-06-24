@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
