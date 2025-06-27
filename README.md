@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 | [0742-to-lower-case](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0742-to-lower-case) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0543-diameter-of-binary-tree) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0543-diameter-of-binary-tree) |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
