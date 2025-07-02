@@ -14,36 +14,40 @@
  * }
  */
 class Solution {
+    public void nthlevel(TreeNode root,int n,List<Integer> arr){ //left to right
+        if(root == null) return;
+        if(n==1){
+            arr.add(root.val);
+            return;
+        }
+        nthlevel(root.left,n-1,arr);
+        nthlevel(root.right,n-1,arr);
+
+}
+    public void nthlevel2(TreeNode root,int n,List<Integer> arr){ //right to left
+        if(root == null) return;
+        if(n==1){
+            arr.add(root.val);
+            return;
+        }
+
+        nthlevel2(root.right,n-1,arr);
+        nthlevel2(root.left,n-1,arr);
+
+    }
+    public int height(TreeNode root){
+        if(root == null || (root.left == null && root.right == null)) return 0;
+        return 1+Math.max(height(root.left),height(root.right));
+    }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        if(root == null) return new ArrayList<>();
+        int level = height(root)+1;
         List<List<Integer>> ans = new ArrayList<>();
-        Queue<TreeNode> q = new LinkedList<>();
-        if(root == null) return ans;
-        q.add(root);
-        int level =0;
-        while(!q.isEmpty()){
-            List<Integer> temp = new ArrayList<>();
-            int size = q.size();
-            while(size-- >0){
-                TreeNode t = q.poll();
-                temp.add(t.val);
-                if(t.left != null) q.add(t.left);
-                if(t.right != null) q.add(t.right);
-            }
-            if(level %2 == 0) ans.add(temp);
-            else{
-                //reverse
-                int i = 0;
-                int j = temp.size()-1;
-                while(i<j){
-                    int rr = temp.get(i);
-                    temp.set(i,temp.get(j));
-                    temp.set(j,rr);
-                    i++;
-                    j--;
-                }
-                ans.add(temp);
-            }
-            level++;
+        for(int i=1 ; i<=level ; i++){
+            List<Integer> arr = new ArrayList<>();
+            if(i%2 !=0)  nthlevel(root,i,arr);
+            else nthlevel2(root,i,arr);
+            ans.add(arr);
         }
         return ans;
     }
