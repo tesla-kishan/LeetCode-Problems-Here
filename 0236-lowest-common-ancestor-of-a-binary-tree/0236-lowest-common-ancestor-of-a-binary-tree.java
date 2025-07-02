@@ -9,13 +9,17 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root==null || root==p || root==q) return root;
-        TreeNode l = lowestCommonAncestor(root.left,p,q);
-        TreeNode r = lowestCommonAncestor(root.right,p,q);
-        if(l==null){
-            return r;
-        }else if(r==null){
-            return l;
-        }else return root;
+        if(p==root || q==root) return root;
+        boolean left = contains(root.left,p);
+        boolean right = contains(root.right,q);
+        if((left && right) || (!left && !right)) return root;
+        if(left && !right) return lowestCommonAncestor(root.left,p,q);
+        if(!left && right) return lowestCommonAncestor(root.right,p,q);
+        return root; //fn will not reach here
+    }
+    public boolean contains(TreeNode root, TreeNode node){
+        if(root == null) return false;
+        if(node==root) return true;
+        return contains(root.left,node) || contains(root.right,node);
     }
 }
