@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2215-finding-3-digit-even-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0226-invert-binary-tree) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0226-invert-binary-tree) |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
