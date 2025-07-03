@@ -14,39 +14,40 @@
  * }
  */
 class Solution {
-    public void nthlev(TreeNode root , List<Integer> temp , int n){
-        if(root == null) return;
-        if(n==1){
-            temp.add(root.val);
-            return;
-        }
-        nthlev(root.left,temp,n-1);
-        nthlev(root.right,temp,n-1);
-
-    }
-    public void nthlev2(TreeNode root , List<Integer> temp , int n){
-        if(root == null) return;
-        if(n==1){
-            temp.add(root.val);
-            return;
-        }
-        nthlev2(root.right,temp,n-1);
-        nthlev2(root.left,temp,n-1);
-
-    }
-    public int height(TreeNode root){
-        if(root == null || (root.left==null && root.right==null)) return 0;
-        return Math.max(height(root.left),height(root.right))+1;
-    }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        Queue<TreeNode> q = new LinkedList<>();
         List<List<Integer>> ans = new ArrayList<>();
-        if(root==null) return ans;
-        int level = height(root)+1;
-        for(int i=1 ; i<=level ; i++){
+        if(root == null) return ans;
+        q.add(root);
+        int lev = 1;
+        while(!q.isEmpty()){
+            int size = q.size();
             List<Integer> temp = new ArrayList<>();
-            if(i%2 !=0) nthlev(root,temp,i);
-            else nthlev2(root,temp,i);
-            ans.add(temp);
+            while(size-- >0){
+                TreeNode front = q.poll();
+                if(front.left != null){
+                    q.add(front.left);
+                }
+                if(front.right != null){
+                    q.add(front.right);
+                }
+                temp.add(front.val);
+            }
+            if(lev%2 !=0) ans.add(temp);
+            else{
+                //reverser kro
+                int i=0 ;
+                int j=temp.size()-1;
+                while(i<j){
+                    int x = temp.get(i);
+                    temp.set(i,temp.get(j));
+                    temp.set(j,x);
+                    i++;
+                    j--;
+                }
+                ans.add(temp);
+            }
+            lev++;
         }
         return ans;
     }
