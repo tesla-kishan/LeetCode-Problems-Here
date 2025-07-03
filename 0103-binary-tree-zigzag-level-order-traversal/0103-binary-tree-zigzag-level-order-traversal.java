@@ -14,40 +14,39 @@
  * }
  */
 class Solution {
-    public void nthlevel(TreeNode root,int n,List<Integer> arr){ //left to right
+    public void nthlev(TreeNode root , List<Integer> temp , int n){
         if(root == null) return;
         if(n==1){
-            arr.add(root.val);
+            temp.add(root.val);
             return;
         }
-        nthlevel(root.left,n-1,arr);
-        nthlevel(root.right,n-1,arr);
+        nthlev(root.left,temp,n-1);
+        nthlev(root.right,temp,n-1);
 
-}
-    public void nthlevel2(TreeNode root,int n,List<Integer> arr){ //right to left
+    }
+    public void nthlev2(TreeNode root , List<Integer> temp , int n){
         if(root == null) return;
         if(n==1){
-            arr.add(root.val);
+            temp.add(root.val);
             return;
         }
-
-        nthlevel2(root.right,n-1,arr);
-        nthlevel2(root.left,n-1,arr);
+        nthlev2(root.right,temp,n-1);
+        nthlev2(root.left,temp,n-1);
 
     }
     public int height(TreeNode root){
-        if(root == null || (root.left == null && root.right == null)) return 0;
-        return 1+Math.max(height(root.left),height(root.right));
+        if(root == null || (root.left==null && root.right==null)) return 0;
+        return Math.max(height(root.left),height(root.right))+1;
     }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        if(root == null) return new ArrayList<>();
-        int level = height(root)+1;
         List<List<Integer>> ans = new ArrayList<>();
+        if(root==null) return ans;
+        int level = height(root)+1;
         for(int i=1 ; i<=level ; i++){
-            List<Integer> arr = new ArrayList<>();
-            if(i%2 !=0)  nthlevel(root,i,arr);
-            else nthlevel2(root,i,arr);
-            ans.add(arr);
+            List<Integer> temp = new ArrayList<>();
+            if(i%2 !=0) nthlev(root,temp,i);
+            else nthlev2(root,temp,i);
+            ans.add(temp);
         }
         return ans;
     }
