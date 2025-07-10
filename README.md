@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
