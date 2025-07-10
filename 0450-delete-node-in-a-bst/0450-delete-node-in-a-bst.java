@@ -22,19 +22,17 @@ class Solution {
             if(root.left ==null) return root.right;
             else if (root.right==null) return root.left;
             else{
-                root.val = findmin(root.right);
-                root.right = deleteNode(root.right,root.val); 
+                TreeNode node = findpred(root.right);
+                root.val = node.val;
+                root.right = deleteNode(root.right,node.val);
             }
         }
         return root;
     }
-    public int findmin(TreeNode root){
-        TreeNode temp = root;
-        int min = root.val;
-        while(temp.left !=null){
-            temp=temp.left;
-            min = temp.val;
+    public TreeNode findpred(TreeNode node){
+        while(node.left !=null){
+            node=node.left;
         }
-        return min;
+        return node;
     }
 }
