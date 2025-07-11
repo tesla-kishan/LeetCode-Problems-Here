@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    TreeNode prev = null;
     public boolean isValidBST(TreeNode root) {
         TreeNode arr[] = new TreeNode [1];
         boolean flag[] = new boolean [1];
