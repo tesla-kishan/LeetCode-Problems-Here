@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0838-design-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3172-divisible-and-non-divisible-sums-difference) |
