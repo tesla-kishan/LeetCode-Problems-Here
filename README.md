@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0747-min-cost-climbing-stairs) |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
