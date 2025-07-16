@@ -25,29 +25,26 @@
  */
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
-        int size =0;
-        ListNode temp = head;
-        while(temp != null){
-            size++;
-            temp = temp.next;
-        }
-        int nums[] = new int [size];
-        temp = head;
-        int i=0;
-        while(temp!=null){
-            nums[i] = temp.val;
-            temp = temp.next;
-            i++;
-        }
-        int n = nums.length;
-        return helper(nums,0,n-1);
+        return buildBST(head,null);
     }
-    public TreeNode helper(int[]nums,int lo ,int hi){
-        if(lo>hi) return null;
-        int mid = lo + (hi-lo)/2;
-        TreeNode root = new TreeNode(nums[mid]);
-        root.left = helper(nums,lo,mid-1);
-        root.right = helper(nums,mid+1,hi);
+    private TreeNode buildBST(ListNode start , ListNode end){
+        if(start==end) return null;
+        ListNode mid = findmid(start,end);
+        TreeNode root = new TreeNode(mid.val);
+        root.left = buildBST(start,mid);
+        root.right = buildBST(mid.next,end);
         return root;
+
+
+    }
+    private ListNode findmid(ListNode start , ListNode end){
+        ListNode slow = start;
+        ListNode fast = start;
+        while(fast!=end && fast.next!=end){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+
     }
 }
