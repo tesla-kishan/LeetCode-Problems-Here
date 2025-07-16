@@ -40,7 +40,6 @@ class Solution {
             i++;
         }
         int n = nums.length;
-        Arrays.sort(nums);
         return helper(nums,0,n-1);
     }
     public TreeNode helper(int[]nums,int lo ,int hi){
