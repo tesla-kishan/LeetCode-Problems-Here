@@ -26,7 +26,7 @@ class Solution {
         if(root==null) return;
         inorder(root.left);
         if(prev !=null){
-            int diff = Math.abs(root.val-prev.val);
+            int diff = root.val-prev.val;
             min_diff = Math.min(min_diff,diff);
         }
         prev = root;
