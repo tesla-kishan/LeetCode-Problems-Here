@@ -24,12 +24,12 @@ class Solution {
     }
     public void inorder(TreeNode root){
         if(root==null) return;
-        inorder(root.left);
+        inorder(root.right);
         if(prev !=null){
-            int diff = root.val-prev.val;
+            int diff = Math.abs(root.val-prev.val);
             min_diff = Math.min(min_diff,diff);
         }
         prev = root;
-        inorder(root.right);
+        inorder(root.left);
     }
 }
