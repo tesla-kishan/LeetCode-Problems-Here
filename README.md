@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -314,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
