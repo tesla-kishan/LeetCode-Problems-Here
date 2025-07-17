@@ -23,8 +23,8 @@ class Solution {
     public void recover(TreeNode root , List<Integer> sorted, int idx[]){
         if(root==null) return;
         recover(root.left,sorted,idx);
-        root.val = sorted.get(idx[0]);
-        idx[0]++;
+        root.val = sorted.get(idx[0]++);
+        // idx[0]++;
         recover(root.right,sorted,idx);
     }
     public void recoverTree(TreeNode root) {
