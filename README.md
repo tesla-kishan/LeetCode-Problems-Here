@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0669-trim-a-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0799-minimum-distance-between-bst-nodes) |
