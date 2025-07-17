@@ -14,24 +14,50 @@
  * }
  */
 class Solution {
-    public void inorder(TreeNode root , List<Integer> ans){
-        if(root==null) return;
-        inorder(root.left,ans);
-        ans.add(root.val);
-        inorder(root.right,ans);
-    }
-    public void recover(TreeNode root , List<Integer> sorted, int idx[]){
-        if(root==null) return;
-        recover(root.left,sorted,idx);
-        root.val = sorted.get(idx[0]++);
-        // idx[0]++;
-        recover(root.right,sorted,idx);
-    }
     public void recoverTree(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        inorder(root,ans);
-        Collections.sort(ans);
-        recover(root,ans,new int[1]);
-    }
+        TreeNode curr = root;
+        TreeNode prev = null;
+        TreeNode prevprev = null;
+        List<TreeNode> ans = new ArrayList<>();
+        while(curr != null){
+            if(curr.left !=null){
+                TreeNode pred = curr.left;
+                while(pred.right !=null && pred.right !=curr){
+                    pred = pred.right;
+                }
+                if(pred.right==null){
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+                else{ //pred.right == curr
+                    pred.right=null;
+                    if(prev!=null && prevprev !=null){
+                        if(prev.val<prevprev.val && prev.val<curr.val) ans.add(prev);
+                        if(prev.val>prevprev.val && prev.val>curr.val) ans.add(prev);
+                    }
+                    else if(prev!=null && prev.val>curr.val) ans.add(prev);
+                    prevprev=prev;
+                    prev=curr;
+                    curr = curr.right;
+                }
+            }
+            else{ //pred hai hi nhi
+                if(prev!=null && prevprev!=null){
+                    if(prev.val>prevprev.val && prev.val>curr.val) ans.add(prev);
+                    if(prev.val<curr.val && prev.val<prevprev.val) ans.add(prev);
+                }
+                else if(prev!=null && prev.val>curr.val) ans.add(prev);
+                prevprev=prev;
+                prev=curr;
+                curr=curr.right;
+            }
+        }
+        if(prev.val<prevprev.val) ans.add(prev);
+        TreeNode first = ans.get(0);
+        TreeNode second = ans.get(ans.size()-1);
+        int temp = first.val;
+        first.val = second.val;
+        second.val=temp;
 
+    }
 }
