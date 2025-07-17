@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
 |  |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Simulation
 |  |
 | ------- |
