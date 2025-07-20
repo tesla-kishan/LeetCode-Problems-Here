@@ -3,26 +3,21 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
         boolean arr[] = new boolean[nums.length];
-        fn(nums,ans,temp,arr);
+        helper(nums,ans,temp,arr);
         return ans;
-        
     }
-    public void fn(int[] nums,List<List<Integer>> ans,List<Integer> temp,boolean arr[]){
-        int n = nums.length;
-        if(temp.size() == n){
+    public void helper(int[] nums,List<List<Integer>> ans,List<Integer> temp,boolean arr[]){
+        if(temp.size()==nums.length){
             ans.add(new ArrayList<>(temp));
-            return;
         }
-        for(int i=0 ;i<n ; i++){
+        for(int i=0 ;i<nums.length ; i++){
             if(!arr[i]){
-                arr[i] = true;
+                arr[i]=true;
                 temp.add(nums[i]);
-                fn(nums,ans,temp,arr);
+                helper(nums,ans,temp,arr);
                 temp.remove(temp.size()-1);
-                arr[i] = false;
+                arr[i]=false;
             }
         }
-
-
     }
 }
