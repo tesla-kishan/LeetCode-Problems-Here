@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 | [0742-to-lower-case](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0742-to-lower-case) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Greedy
