@@ -1,31 +1,7 @@
 class Solution {
-    private void nqueen(char[][] board, int row,List<List<String>> ans) {
+    public boolean isSafe(char board[][],int row,int col){
         int n = board.length;
-        if(row==n){
-            List<String> l = new ArrayList<>();
-            //convert 2d char arr to list of string
-            for(int i=0 ;i<n ; i++){
-                String str = "";
-                for(int j=0 ; j<n ; j++){
-                    str += board[i][j];
-                }
-                l.add(str);
-            }
-            ans.add(l);
-            return;
-        }
-        for(int j=0 ;j<n ;j++){
-            if(isSafe(board,row,j)){
-                board[row][j] = 'Q';
-                nqueen(board,row+1,ans);
-                board[row][j]='.';          //backtracking
-            }
-        }
-    }
-
-    private static boolean isSafe(char[][] board, int row, int col) {
-        int n = board.length;
-          //check row
+        //check row
         for(int j=0 ; j<n ; j++){
             if(board[row][j]=='Q') return false;
         }
@@ -66,11 +42,32 @@ class Solution {
             j--;
         }
         return true;
-
+    }
+    public void nqueen(char board[][],int row,List<List<String>> ans){
+        int n = board.length;
+        if(row==n){
+            List<String> temp = new ArrayList<>();
+            for(int i=0 ;i<n ;i++){
+                String str = "";
+                for(int j=0 ;j<n ; j++){
+                    str += board[i][j];
+                }
+                temp.add(str);
+            }
+            ans.add(temp);
+            return;
+        }
+        for(int j=0;j<n;j++){
+            if(isSafe(board,row,j)){
+                board[row][j]='Q';
+                nqueen(board,row+1,ans);
+                board[row][j]='.';
+            }
+        }
     }
     public List<List<String>> solveNQueens(int n) {
         char board[][] = new char [n][n];
-        for(int i=0 ;i<board.length;i++){
+        for(int i=0 ;i<n ;i++){
             Arrays.fill(board[i],'.');
         }
         List<List<String>> ans = new ArrayList<>();
