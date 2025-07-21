@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
