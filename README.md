@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0088-merge-sorted-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
