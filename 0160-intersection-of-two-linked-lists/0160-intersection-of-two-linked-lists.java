@@ -17,6 +17,6 @@ public class Solution {
             t1 = (t1==null) ? t1=headB : t1.next;
             t2 = (t2==null) ? t2=headA : t2.next;
         }
-        return t1;
+        return t2;
     }
 }
