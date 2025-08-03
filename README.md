@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0377-combination-sum-iv](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0377-combination-sum-iv) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Brainteaser
