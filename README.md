@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
