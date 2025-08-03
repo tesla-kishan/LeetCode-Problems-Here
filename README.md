@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0070-climbing-stairs) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
