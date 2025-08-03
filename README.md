@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0198-house-robber) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0377-combination-sum-iv](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Brainteaser
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Bit Manipulation
 |  |
