@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
+| [0724-find-pivot-index](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
@@ -412,5 +413,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
