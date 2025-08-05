@@ -1,13 +1,18 @@
+
+
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashMap<Integer,Integer> mp = new LinkedHashMap<>();
-        for(int num: nums){
-            mp.put(num,1);
+        Set<Integer> set = new LinkedHashSet<>(); // preserves order
+        
+        for (int num : nums) {
+            set.add(num); // only first occurrence is kept
         }
-        int idx=0;
-        for(int key:mp.keySet()){
-            nums[idx++]=key;
+        
+        int index = 0;
+        for (int val : set) {
+            nums[index++] = val; // overwrite nums
         }
-        return mp.size();
+        
+        return set.size(); // length of unique elements
     }
 }
