@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -408,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
