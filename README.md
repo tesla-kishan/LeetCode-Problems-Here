@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
 ## Sliding Window
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
