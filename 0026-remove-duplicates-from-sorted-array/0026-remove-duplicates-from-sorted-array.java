@@ -1,18 +1,10 @@
-
-
 class Solution {
     public int removeDuplicates(int[] nums) {
-        Set<Integer> set = new LinkedHashSet<>(); // preserves order
-        
-        for (int num : nums) {
-            set.add(num); // only first occurrence is kept
+        // if(nums.length==0) return 0;
+        int idx=1;
+        for(int i=1 ; i<nums.length ; i++){
+            if(nums[i]!=nums[i-1]) nums[idx++]=nums[i];
         }
-        
-        int index = 0;
-        for (int val : set) {
-            nums[index++] = val; // overwrite nums
-        }
-        
-        return set.size(); // length of unique elements
+        return idx;
     }
 }
