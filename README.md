@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
+| [1019-squares-of-a-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1019-squares-of-a-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1019-squares-of-a-sorted-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
