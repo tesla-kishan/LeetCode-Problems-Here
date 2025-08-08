@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1019-squares-of-a-sorted-array) |
 ## Doubly-Linked List
