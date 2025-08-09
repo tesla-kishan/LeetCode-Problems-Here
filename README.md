@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 ## Sorting
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
 ## Monotonic Stack
 |  |
 | ------- |
