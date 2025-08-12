@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0747-min-cost-climbing-stairs) |
 | [0898-transpose-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0898-transpose-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0560-subarray-sum-equals-k) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2215-finding-3-digit-even-numbers) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2102-find-the-middle-index-in-array) |
