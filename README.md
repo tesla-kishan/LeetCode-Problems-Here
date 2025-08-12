@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0377-combination-sum-iv](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2102-find-the-middle-index-in-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
