@@ -15,7 +15,7 @@ class Solution {
             if(nums[mid]>nums[r]) l=mid+1;
             else r=mid;
         }
-        return r;
+        return l;
     }
     public int binarysearch(int l, int r, int nums[], int target){
         int idx=-1;
