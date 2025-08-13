@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
