@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0075-sort-colors) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
