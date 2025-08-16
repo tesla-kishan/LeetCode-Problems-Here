@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0909-stone-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 ## Sorting
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0342-power-of-four) |
 ## Monotonic Stack
 |  |
 | ------- |
