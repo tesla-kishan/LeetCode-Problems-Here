@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3830-find-closest-person](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
