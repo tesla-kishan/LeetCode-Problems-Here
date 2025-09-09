@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1677-matrix-diagonal-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
