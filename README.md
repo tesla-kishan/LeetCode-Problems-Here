@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
