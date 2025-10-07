@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0435-non-overlapping-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-sort-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0948-sort-an-array) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0948-sort-an-array) |
 ## Combinatorics
 |  |
@@ -499,10 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -512,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
