@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0141-linked-list-cycle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0242-valid-anagram) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/0066-plus-one) |
