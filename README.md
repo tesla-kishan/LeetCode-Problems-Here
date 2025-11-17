@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3396-valid-word) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/tesla-kishan/LeetCode-Problems-Here/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
 | ------- |
